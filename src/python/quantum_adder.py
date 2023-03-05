@@ -5,8 +5,9 @@ from qiskit.providers.aer import QasmSimulator
 circuit = QuantumCircuit(4, 2)
 
 # init states
-circuit.x(1)
-circuit.x(2)
+circuit.h(0)
+circuit.h(1)
+circuit.h(2)
 
 # gates
 circuit.toffoli(0, 1, 3);
