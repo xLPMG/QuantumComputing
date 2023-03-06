@@ -1,6 +1,7 @@
 # Quantum Computing Repository
 
 Workspace for testing & researching quantum algorithms.
+<br>Using Qiskit with Jupyter and Python.
 
 Feel free to look through the jupyter notebooks, where I document most of the content of this repository.
 
