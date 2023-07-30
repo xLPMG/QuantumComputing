@@ -1,5 +1,3 @@
-# THIS CODE WAS NOT WRITTEN BY ME
-
 from qiskit import QuantumRegister, ClassicalRegister
 from qiskit import QuantumCircuit, execute,IBMQ
 from qiskit.tools.monitor import job_monitor
